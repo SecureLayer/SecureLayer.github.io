@@ -1,7 +1,7 @@
 ---
 title: Privacy
-date: 2025-13-01
-share: false
+date: 2025-12-28T00:00:00Z
+share: true
 ---
 
 ## Privacy Policy
@@ -51,7 +51,7 @@ This Privacy Policy describes how this simple landing page collects, uses, and p
 - We may update this policy. The effective date above will reflect the latest version.
 
 Contact
-- For questions or requests regarding this policy, contact: privacy@[your-domain].com
+- For questions or requests regarding this policy, contact: privacy@securelayer.co
 
 License & hosting note (optional)
 - This landing page is hosted on third‑party infrastructure; those providers’ privacy practices also apply.

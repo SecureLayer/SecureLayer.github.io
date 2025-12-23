@@ -1,7 +1,7 @@
 ---
 title: Terms of Service
-date: 2025-13-01
-share: false
+date: 2025-12-28T00:00:00Z
+share: true
 ---
 
 Terms of Service
@@ -52,5 +52,3 @@ For questions about these Terms, contact: legal@securelayer.co
 
 15. Entire Agreement  
 These Terms, together with the Privacy Policy and any other referenced policies, constitute the entire agreement between you and the company regarding the Site.
-
-Replace placeholder addresses and jurisdiction with your company’s details before publishing.
