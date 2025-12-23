@@ -1,12 +1,12 @@
 ---
 title: Terms of Service
-date: 2025-28-01
+date: 2025-13-01
 share: false
 ---
 
 Terms of Service
 
-Effective date: December 23, 2025
+Effective date: December 28, 2025
 
 1. Acceptance of Terms  
 By accessing or using this website (the “Site”), you agree to these Terms of Service and any referenced policies. If you do not agree, do not use the Site.
