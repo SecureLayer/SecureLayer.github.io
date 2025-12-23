@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: Improve Your Cybersecurity with this starter kit
-      text: EASY. FREE (OPEN SOURCE).
+      text: EASY. FREE (OPEN SOURCE)
       primary_action:
         text: Get Started
         url: https://github.com/SecureLayer/cybersecurity-starter-kit
@@ -64,27 +64,27 @@ sections:
   - block: features
     id: features
     content:
-      title: Features
-      text: Build your cybersecurity with ease
+      title: How To
+      text: Start with ease
       items:
-        - name: Audit 
+        - name: Audit
           icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
+          description: Assess your maturity with simple, guided questions and identify high‑impact gaps.
+        - name: Plan
           icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-#       - name: No-Code
+          description: Prioritize risks and build a pragmatic roadmap (30/90/180 days) with owners, deadlines and quick‑win milestones.
+        - name: Implement
+          icon: rectangle-group
+          description: Execute effective controls with clear checklists, templates and playbooks — no prerequisites required.
+#       - name: 
+#         icon: sparkles
+#         description: 
+#       - name: 
 #         icon: code-bracket
-#         description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-#       - name: Highly Rated
+#         description: 
+#       - name: 
 #         icon: star
-#         description: Rated 5-stars by the community.
-#       - name: Swappable Blocks
-#         icon: rectangle-group
-#         description: Build your pages with blocks - no coding required!
+#         description:
   - block: cta-image-paragraph
     id: solutions
     content:
@@ -94,8 +94,8 @@ sections:
           feature_icon: check
           features:
             - "Team-first — manage security responsibilities collaboratively"
-            - "Single workflow — run your security program from one toolkit"
-            - "No prerequisites - follow clear steps to secure your organisation"
+            - "One workflow — run your security program from a simple toolkit"
+            - "No prerequisites - follow clear steps to secure your organization"
           # Upload image to `assets/media/` and reference the filename here
           image: build-website.png
           button:
@@ -106,7 +106,7 @@ sections:
           feature_icon: bolt
           features:
             - "Open issue tracker for questions"
-            - "A large, active GitHub community of contributors and reviewers"
+            - "A GitHub community of contributors and reviewers"
             - "Share your repo or configs and get practical feedback via PRs and discussions"
           # Upload image to `assets/media/` and reference the filename here
           image: coffee.png
