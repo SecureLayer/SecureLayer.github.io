@@ -90,10 +90,10 @@ sections:
     content:
       items:
         - title: Build a resilient, secure organization
-          text: Secure your processes in 3 clear steps
+          text: Secure all your processes
           feature_icon: check
           features:
-            - "Team-first — manage security responsibilities collaboratively"
+            - "A Team-first approach — manage security responsibilities collaboratively"
             - "One workflow — run your security program from a simple toolkit"
             - "No prerequisites - follow clear steps to secure your organization"
           # Upload image to `assets/media/` and reference the filename here
