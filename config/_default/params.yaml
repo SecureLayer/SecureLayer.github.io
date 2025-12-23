@@ -116,7 +116,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {2026} {SecureLayer}. This work is licensed under {MIT}"
+    notice: "© {2025} {SecureLayer}. This work is licensed under {MIT}"
     license:
       type: MIT                          # cc | all_rights | custom
       allow_derivatives: false
