@@ -24,7 +24,7 @@ hugoblox:
     description: "SecureLayer | Easily improve your cybersecurity."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "securelayer.co"              # Twitter/X handle for Twitter Cards (without @)
+      Instagram : "securelayer.co"              # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -116,9 +116,9 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {2026} {SecureLayer}. This work is licensed under {cc}"
+    notice: "© {2026} {SecureLayer}. This work is licensed under {MIT}"
     license:
-      type: cc                          # cc | all_rights | custom
+      type: MIT                          # cc | all_rights | custom
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
