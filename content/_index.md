@@ -124,7 +124,7 @@ sections:
         - name: "Astrid Jean-Baptiste"
           role: "Operation Manager in a startup"
           # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
+          image: "testimonial-1.png"
           text: "Fantastic — incredibly easy to follow. The ready-made security playbooks saved our team countless hours and let us focus on fixing real risks."
     design:
       spacing:
