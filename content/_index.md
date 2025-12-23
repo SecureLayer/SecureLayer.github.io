@@ -16,14 +16,14 @@ sections:
         text: Get Started
         url: https://github.com/SecureLayer/cybersecurity-starter-kit
         icon: rocket-launch
-#     secondary_action:
-#        text: Read the docs
-#        url: https://github.com/SecureLayer/cybersecurity-starter-kit/blob/main/README.md
-#     announcement:
-#       text: "Announcing the release of our starter kit."
-#       link:
-#         text: "Read more"
-#         url: "/blog/"
+     secondary_action:
+        text: ""
+        url: 
+     announcement:
+       text: ""
+       link:
+         text: ""
+         url: ""
  design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
@@ -53,7 +53,7 @@ sections:
             compared to 2023
         - statistic: "37%"
           description: |
-            of ransomware 
+            of ransomware victims
             are SMBs
     design:
       # Section background color (CSS class)
