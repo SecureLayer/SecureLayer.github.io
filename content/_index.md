@@ -64,8 +64,8 @@ sections:
   - block: features
     id: features
     content:
-      title: How To
-      text: Start with ease
+      title: Where To Start 
+      text: 
       items:
         - name: Audit
           icon: magnifying-glass
