@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: Improve Your Cybersecurity with this starter kit
+      title: Improve your cybersecurity with this starter kit
       text: EASY. FREE (OPEN SOURCE)
       primary_action:
         text: Get Started
@@ -69,10 +69,10 @@ sections:
       items:
         - name: Audit
           icon: magnifying-glass
-          description: Assess your maturity with simple, guided questions and identify high‑impact gaps.
+          description: Assess your maturity with our selection of simple, guided questions and identify high‑impact gaps.
         - name: Plan
           icon: bolt
-          description: Prioritize risks and build a pragmatic roadmap (30/90/180 days) with owners, deadlines and quick‑win milestones.
+          description: Use our pragmatic roadmap (30/90/180 days) with owners, deadlines, quick‑win milestones.
         - name: Implement
           icon: rectangle-group
           description: Execute effective controls with clear checklists, templates and playbooks — no prerequisites required.
