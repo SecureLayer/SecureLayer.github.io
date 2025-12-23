@@ -43,10 +43,10 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "10+"
+        - statistic: "4000+"
           description: |
             security events occurs 
-            each day
+            each year in France
         - statistic: "+15%"
           description: |
             of attacks
