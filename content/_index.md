@@ -43,10 +43,10 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "4000+"
+        - statistic: "10+"
           description: |
-            security events  
-            in France in 2024
+            security events occurs 
+            each day
         - statistic: "+15%"
           description: |
             of attacks
