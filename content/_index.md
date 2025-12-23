@@ -16,15 +16,15 @@ sections:
         text: Get Started
         url: https://github.com/SecureLayer/cybersecurity-starter-kit
         icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://github.com/SecureLayer/cybersecurity-starter-kit/blob/main/README.md
-      announcement:
-        text: "Announcing the release of our starter kit."
-        link:
-          text: "Read more"
-          url: "/blog/"
-    design:
+#     secondary_action:
+#        text: Read the docs
+#        url: https://github.com/SecureLayer/cybersecurity-starter-kit/blob/main/README.md
+#     announcement:
+#       text: "Announcing the release of our starter kit."
+#       link:
+#         text: "Read more"
+#         url: "/blog/"
+ design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
     #     margin: [0, 0, 0, 0]
