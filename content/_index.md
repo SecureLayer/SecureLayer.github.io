@@ -45,7 +45,7 @@ sections:
       items:
         - statistic: "4000+"
           description: |
-            security events occurs 
+            security events 
             each year in France
         - statistic: "+15%"
           description: |
