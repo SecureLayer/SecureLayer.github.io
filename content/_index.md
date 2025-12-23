@@ -132,8 +132,8 @@ sections:
         padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
-      title: Build a resilient, secure organization
-      text: Secure your processes in 3 clear steps
+      title: Build a secure and resilient organization
+      text: 
       button:
         text: Get Started
         url: https://github.com/SecureLayer/cybersecurity-starter-kit
