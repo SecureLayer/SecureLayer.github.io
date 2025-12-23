@@ -50,7 +50,7 @@ sections:
         - statistic: "+15%"
           description: |
             of attacks
-            compared to 2023
+            compared to last year
         - statistic: "37%"
           description: |
             of ransomware victims
