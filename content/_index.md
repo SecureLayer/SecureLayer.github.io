@@ -10,21 +10,21 @@ design:
 sections:
   - block: hero
     content:
-      title: Improve Your Cybersecurity with SecureLayer
-      text: 🧱 EASY. FREE (OPEN SOURCE). 🧱
+      title: Improve Your Cybersecurity with this starter kit
+      text: EASY. FREE (OPEN SOURCE).
       primary_action:
         text: Get Started
         url: https://github.com/SecureLayer/cybersecurity-starter-kit
         icon: rocket-launch
-     secondary_action:
-        text: ""
+      secondary_action:
+        text: 
         url: 
-     announcement:
-       text: ""
-       link:
-         text: ""
-         url: ""
- design:
+      announcement:
+        text: 
+        link:
+          text: 
+          url: 
+    design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
     #     margin: [0, 0, 0, 0]
