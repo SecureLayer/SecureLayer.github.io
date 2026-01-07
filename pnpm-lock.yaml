@@ -15,8 +15,8 @@ importers:
         specifier: ^0.5.10
         version: 0.5.16(tailwindcss@4.1.12)
       preact:
-        specifier: ^10.27.2
-        version: 10.27.2
+        specifier: ^10.27.3
+        version: 10.27.3
       tailwindcss:
         specifier: ^4.1.12
         version: 4.1.12
@@ -77,12 +77,6 @@ packages:
     resolution: {integrity: sha512-6E+m/Mm1t1yhB8X412stiKFG3XykmgdIOqhjWj+VL8oHkKABfu/gjFj8DvLrYVHSBNC+/u5PeNrujiSQ1zwd1Q==}
     engines: {node: '>= 10.0.0'}
     cpu: [arm]
-    os: [linux]
-
-  '@parcel/watcher-linux-arm64-glibc@2.5.1':
-    resolution: {integrity: sha512-LrGp+f02yU3BN9A+DGuY3v3bmnFUggAITBGriZHUREfNEzZh/GO06FF5u2kx8x+GBEUYfyTGamol4j3m9ANe8w==}
-    engines: {node: '>= 10.0.0'}
-    cpu: [arm64]
     os: [linux]
 
   '@parcel/watcher-linux-arm64-musl@2.5.1':
@@ -379,8 +373,8 @@ packages:
     resolution: {integrity: sha512-IQ7TZdoaqbT+LCpShg46jnZVlhWD2w6iQYAcYXfHARZ7X1t/UGhhceQDs5X0cGqKvYlHNOuv7Oa1xmb0oQuA3w==}
     engines: {node: '>=4'}
 
-  preact@10.27.2:
-    resolution: {integrity: sha512-5SYSgFKSyhCbk6SrXyMpqjb5+MQBgfvEKE/OC+PujcY34sOpqtr+0AZQtPYx5IA6VxynQ7rUPCtKzyovpj9Bpg==}
+  preact@10.27.3:
+    resolution: {integrity: sha512-ZieIP3zQHiQsNF3BA+SNVS8dcuRIg/nsxlkFbCMBLS2L1Ww4Bkxd9n6Md2A1crfTZsEbQPADV0neYmh/EElgeQ==}
 
   source-map-js@1.2.1:
     resolution: {integrity: sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==}
@@ -451,9 +445,6 @@ snapshots:
   '@parcel/watcher-linux-arm-musl@2.5.1':
     optional: true
 
-  '@parcel/watcher-linux-arm64-glibc@2.5.1':
-    optional: true
-
   '@parcel/watcher-linux-arm64-musl@2.5.1':
     optional: true
 
@@ -485,7 +476,6 @@ snapshots:
       '@parcel/watcher-freebsd-x64': 2.5.1
       '@parcel/watcher-linux-arm-glibc': 2.5.1
       '@parcel/watcher-linux-arm-musl': 2.5.1
-      '@parcel/watcher-linux-arm64-glibc': 2.5.1
       '@parcel/watcher-linux-arm64-musl': 2.5.1
       '@parcel/watcher-linux-x64-glibc': 2.5.1
       '@parcel/watcher-linux-x64-musl': 2.5.1
@@ -689,7 +679,7 @@ snapshots:
       cssesc: 3.0.0
       util-deprecate: 1.0.2
 
-  preact@10.27.2: {}
+  preact@10.27.3: {}
 
   source-map-js@1.2.1: {}
 
